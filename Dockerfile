@@ -21,6 +21,7 @@ RUN npm i -g \
   @semantic-release/gitlab \
   @semantic-release/exec \
   semantic-release \
+  semantic-release-monorepo \
   salesforce-deploy-cli \
   bump-prerelease-version \
   jfrog-cli-go
